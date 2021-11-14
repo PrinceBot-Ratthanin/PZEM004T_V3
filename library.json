@@ -7,7 +7,7 @@
   "author": "mandulaj | Block by PrinceBot",
   "email": "Print081@gmail.com",
   "url": "https://github.com/PrinceBot-Ratthanin/PZEM004T_V3/",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "board" : "",
   "platform": ["arduino-esp32"],
   "license": "MIT",
