@@ -32,7 +32,7 @@ Blockly.JavaScript['PZEM004T_Setup'] = function(block) {
   };
   Blockly.JavaScript['PZEM004T_readFrequency'] = function(block) {
     var variable_instance = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('instance'), Blockly.Variables.NAME_TYPE);
-    var code = `${variable_instance}.energy()`;
+    var code = `${variable_instance}.frequency()`;
     return [code, Blockly.JavaScript.ORDER_ATOMIC];
   };
   Blockly.JavaScript['PZEM004T_readPF'] = function(block) {
